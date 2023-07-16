@@ -110,7 +110,7 @@ class TestFileStorage(unittest.TestCase):
         Test for WrongInput command for FileStorage
         """
         try:
-            self.assertRaises(storage.new('mlsjioa'), TypeError)
+            self.assertRaises(storage.new('mlsmjioa'), TypeError)
             self.assertRaises(storage.new(None), TypeError)
         except AttributeError:
             pass
