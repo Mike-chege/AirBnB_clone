@@ -2,7 +2,7 @@
 
 This project covers AirBnB clone & command interpreter(The console). The whole project will be wrtten using python3.
 
-# Classes
+## :file_folder: Classes
 The following are the classes used:
 
 - A parent class (called `BaseModel`) to take care of the initialization, serialization and deserialization of your future instances
@@ -11,14 +11,14 @@ The following are the classes used:
 - `FileStorage` the first abstracted storage engine of the project
 - `Unittests` to validate all classes and storage engine
 
-# The console should be able to:
+## The console should be able to:
 - Create a new object (ex: a new User or a new Place)
 - Retrieve an object from a file, a database etc…
 - Do operations on objects (count, compute stats, etc…)
 - Update attributes of an object
 - Destroy an object
 
-# Execution
+## Execution
 To run the console use:
 ```
 $ ./console.py
@@ -55,7 +55,7 @@ EOF  help  quit
 (hbnb) 
 $
 ```
-# Tests
+## :scroll: Tests
 To run the tests use:
 
 ```
