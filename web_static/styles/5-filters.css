@@ -7,7 +7,6 @@
 	border-radius: 4px;
 }
 
-/* Search button*/
 .search_button {
 	font-size: 18px;
 	background-color: #FF5A5F;
@@ -23,12 +22,16 @@
 	display: inline-block;
 }
 
-/* Hover button */
 .search_button:hover {
 	opacity: 0.9;
 }
 
-/* Class amenities */
+.locations {
+	display: inline-block;
+	height: 100%;
+	width: 25%;
+}
+
 .amenities {
 	display: inline-block;
 	height: 100%;
@@ -40,15 +43,15 @@
 }
 
 .locations h3, .amenities h3 {
-	font-weight: 600;
+	font-weight: 600px;
 }
 
 .locations h4, .amenities h4 {
 	font-weight: 400px;
-	font-size: 14px;
+	font-size 14px;
 }
 
-.locations h3, .location h4, .amenities h3, .amenities h4 {
+.locations h3, .locations h4, .amenities h3, .amenities h4 {
 	margin: 0px;
 	margin-top: 10px;
 	margin-left: 40px;
