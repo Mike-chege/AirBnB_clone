@@ -67,5 +67,5 @@ echo "python3 -m unittest discover tests" | bash
 ```
 
 ##  :label: Authors
-* **Michael Chege** - [@mikechege](https://github.com/mikechege01)
+* **Michael Chege** - [@mikechege](https://github.com/Mike-chege)
 * **Muluken Tenaw** - [@amigaye](https://github.com/amigaye)
